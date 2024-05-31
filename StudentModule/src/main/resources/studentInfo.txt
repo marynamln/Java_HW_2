@@ -1,0 +1,27 @@
+Student Information:
+--------------------
+Name: Maryna Melnyk
+Date of Birth: 1995-07-15
+Major: Computer Science
+Year: 3
+GPA: 3.85
+
+Courses Enrolled:
+-----------------
+1. Object-oriented programming
+2. Data Structures
+3. Algorithms
+4. Databases
+5. Web Development
+6. Software Engineering
+
+Extracurricular Activities:
+---------------------------
+1. Member of the Computer Science Club
+2. Volunteer at the Local Animal Shelter
+3. Participant in the University Coding Challenge
+
+Contact Information:
+--------------------
+Email: maryna.melnyk@example.com
+Phone: +380 67 123 4567
